@@ -196,8 +196,4 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedbaig2004/ahmedbaig2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
