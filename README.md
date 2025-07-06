@@ -18,165 +18,55 @@
 # 🚀 Tech Stack
 
 ## 🖥️ Frontend
-<div align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    height="30"
-  />
-  HTML&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    height="30"
-  />
-  CSS&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    height="30"
-  />
-  JavaScript&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    height="30"
-  />
-  TypeScript&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    height="30"
-  />
-  React&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    height="30"
-  />
-  Redux&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    height="30"
-  />
-  Bootstrap&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    height="30"
-  />
-  Tailwind CSS&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-    height="30"
-  />
-  Flutter&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-    height="30"
-  />
-  Dart
-</div>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="30"/>
+</p>
 
 ## ⚙️ Backend & Databases
-<div align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    height="30"
-  />
-  Node.js&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    height="30"
-  />
-  Express.js&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    height="30"
-  />
-  MongoDB&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    height="30"
-  />
-  MySQL&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    height="30"
-  />
-  PostgreSQL&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-    height="30"
-  />
-  SQLite&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
-    height="30"
-  />
-  Kafka&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-    height="30"
-  />
-  RabbitMQ
-</div>
-
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="30"/>
+</p>
 
 ## 🛠️ Tools & DevOps
-<div align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    height="30"
-  />
-  Docker&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    height="30"
-  />
-  AWS&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    height="30"
-  />
-  Postman&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-    height="30"
-  />
-  Selenium
-</div>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"/>&nbsp;
 
+</p>
 
 ## 💻 Programming Languages
-<div align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    height="30"
-  />
-  C&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    height="30"
-  />
-  C++&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    height="30"
-  />
-  Python
-</div>
-
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="230" width="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30"/>
+</p>
 
 ## 🎨 Design Tools
-<div align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    height="30"
-  />
-  Photoshop&nbsp;&nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-    height="30"
-  />
-  Illustrator
-</div>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30"/>
+</p>
 
 
----
+
 
 # 📫 Connect with me
 
@@ -195,5 +85,3 @@
 </p>
 
 ---
-
-
